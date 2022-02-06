@@ -2,8 +2,8 @@
 * A dual mode classic TicTacToe game
 
 ## Installation
-1. Go to [Releases](https://github.com/BLAK3STORM/RPS_On/releases/tag/v1.0.0.0)
-2. Download & Extract *RPS.On.rar*
+1. Go to [Releases](https://github.com/BLAK3STORM/TicTacToe/releases/tag/v1.0.0.0)
+2. Download & Extract *TicTacToe.rar*
 3. Run the ```executable```
 4. Play & Enjoy!
 ## Requirements
